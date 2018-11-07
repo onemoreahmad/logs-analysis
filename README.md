@@ -1,5 +1,5 @@
 # Logs analysis Report
-This is a simple reporting tool done by Python that prints out reports for a newspaper to its analysis articles and authors.
+This is a simple reporting tool done using **Python** that prints out reports for a newspaper to its analysis articles and authors.
 
 
 ## Installation

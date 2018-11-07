@@ -2,7 +2,7 @@
 This is a simple reporting tool done by Python that prints out reports for a newspaper to its analysis articles and authors.
 
 
-### Installation  ###
+## Installation
 
 1. Clone this repo
 
